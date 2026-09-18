@@ -8,6 +8,15 @@
       "downloadUrl": "https://github.com/OfficialHarYT/my-backrooms-launcher/releases/download/v1.0.0/MyBackrooms1-0.zip",
       "sizeBytes": 0,
       "exeRelativePath": "MyBackrooms.exe"
+    },
+    {
+      "id": "my_story",
+      "displayName": "My Story",
+      "description": "An Undertale-inspired 2D RPG about mercy, memory, and what's waiting at the top of the last staircase.",
+      "version": "2.0",
+      "downloadUrl": "https://github.com/OfficialHarYT/my-backrooms-launcher/releases/download/my-story-v2.0/FullGame2-0.zip",
+      "sizeBytes": 0,
+      "exeRelativePath": "The Story.exe"
     }
   ],
   "latestLauncherVersion": "1.0.0",
